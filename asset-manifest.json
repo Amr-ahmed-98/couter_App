@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Amr-ahmed-98/couter_App/static/css/main.a5ffd788.css",
-    "main.js": "/Amr-ahmed-98/couter_App/static/js/main.92d4898f.js",
-    "index.html": "/Amr-ahmed-98/couter_App/index.html",
-    "main.a5ffd788.css.map": "/Amr-ahmed-98/couter_App/static/css/main.a5ffd788.css.map",
-    "main.92d4898f.js.map": "/Amr-ahmed-98/couter_App/static/js/main.92d4898f.js.map"
+    "main.css": "/couter_App/static/css/main.a5ffd788.css",
+    "main.js": "/couter_App/static/js/main.92d4898f.js",
+    "index.html": "/couter_App/index.html",
+    "main.a5ffd788.css.map": "/couter_App/static/css/main.a5ffd788.css.map",
+    "main.92d4898f.js.map": "/couter_App/static/js/main.92d4898f.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ffd788.css",
