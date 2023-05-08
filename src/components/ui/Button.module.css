@@ -1,0 +1,52 @@
+.button {
+  height: 3rem;
+  min-width: 6rem;
+  margin: 2rem;
+  border: none;
+  background-color: rgb(234, 234, 20);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.8s;
+  -webkit-transition: 0.8s;
+  -moz-transition: 0.8s;
+  -ms-transition: 0.8s;
+  -o-transition: 0.8s;
+}
+.button:nth-child(1):hover {
+  background-color: green;
+  color: white;
+  transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  -o-transform: scale(1.5);
+}
+.button:nth-child(2):hover {
+  background-color: red;
+  color: white;
+  transform: scale(0.8);
+  -webkit-transform: scale(0.8);
+  -moz-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  -o-transform: scale(0.8);
+}
+.button:nth-child(3):hover {
+  background-color: transparent;
+  color: white;
+}
+.button:nth-child(4):hover {
+  background-color: green;
+  color: red;
+  transform: scale(2);
+  -webkit-transform: scale(2);
+  -moz-transform: scale(2);
+  -ms-transform: scale(2);
+  -o-transform: scale(2);
+  border: 2px solid red;
+}
